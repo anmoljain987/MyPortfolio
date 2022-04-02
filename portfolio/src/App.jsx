@@ -43,11 +43,7 @@ function App() {
           <Route path="*" element={<Navigate to="/" />} />
         </Routes>
       </div>
-      <div>
-        <br />
-        <br />
-        <br />
-      </div>
+
       <Footer />
     </Router>
   );
