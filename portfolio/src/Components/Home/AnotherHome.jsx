@@ -24,7 +24,7 @@ function AnotherHome() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and Python. </b>
+                <b className="purple"> HTML, CSS and Javascript . </b>
               </i>
               <br />
               <br />
@@ -39,10 +39,9 @@ function AnotherHome() {
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              with <b className="purple">Node.js</b> and &nbsp;
               <i>
                 <b className="purple">
-                  {" "}
                   Modern Javascript Library and Frameworks
                 </b>
               </i>
@@ -67,7 +66,7 @@ function AnotherHome() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/anmoljain987"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,7 +76,7 @@ function AnotherHome() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://twitter.com/IamAnmolJain"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,7 +86,7 @@ function AnotherHome() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/anmoljain987/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +96,7 @@ function AnotherHome() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/s.o.u.m.y.a_j.i.t/"
+                  href="https://www.instagram.com/llanmoljainll/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"

@@ -22,7 +22,7 @@ function Home() {
               </h1>
               <h1 className="heading-name">
                 I'M
-                <strong className="main-name"> SOUMYAJIT BEHERA</strong>
+                <strong className="main-name"> ANMOL JAIN</strong>
               </h1>
               <div style={{ padding: 50, textAlign: "left" }}>
                 <TypingEffect />
@@ -39,7 +39,7 @@ function Home() {
           </Row>
         </Container>
       </Container>
-      <AnotherHome />
+        <AnotherHome />
     </section>
   );
 }
