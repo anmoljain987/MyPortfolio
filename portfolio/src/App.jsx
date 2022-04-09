@@ -17,7 +17,7 @@ import ScrollToTop from "./Components/ScrollToTop";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./style.css";
 import "./App.css";
-/////Check App.css and remove body colour
+
 
 function App() {
   const [load, setLoad] = useState(true);

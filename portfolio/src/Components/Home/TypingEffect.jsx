@@ -6,7 +6,7 @@ function TypingEffect() {
       options={{
         strings: [
           "Developer",
-          "MERN Stack Devolper",
+          "MERN Stack Developer",
           "Problem Solver",
           "Debugger",
         ],
