@@ -22,7 +22,7 @@ function AnotherHome() {
               I fell in love with Web Development since I was in 8<sup>th</sup>{" "}
               standard and I was just amazed at how it works.I was always
               motivated to learn coding and do the cool stuff as I thought as a
-              kid and learnt MERN Stack from MASAI,Benagaluru.
+              kid and later on I learnt MERN Stack and here I am now.
               <br />
               <br />I am fluent in classics like
               <i>
